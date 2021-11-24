@@ -29,7 +29,7 @@ body, html {
 }
 #front{
   height: 100%;
-  background-image: url('%PUBLIC_URL%/front.jpg');
+  background-image: url('../images/front.jpg');
   animation: glitchbackground 4s infinite;
   background-attachment: fixed;
   background-position: center;
